@@ -1,16 +1,16 @@
 # testnotification
 
-A new Flutter project.
+A Flutter project that demonstrates pushing a notification and also implementing a payload with the notification so that when the user clicks/presses the notification he/she is directed to a new page in the app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and you're all set.
 
-A few resources to get you started if this is your first Flutter project:
+Tools Used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Android Studio
+- Flutter SDK
+- VS Code
+- Flutter Local Notifications Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more information mail me @ jeevandevasiajohn@gmail.com
